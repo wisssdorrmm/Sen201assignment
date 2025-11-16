@@ -2,6 +2,8 @@ print("Hello, World! my name is Ifiok obong uduak udoudo 24/14738")
 # Basic Calculator
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
+num3 = float(input("Enter second number: "))
+
 
 print("Select operation: +, -, *, /")
 operation = input("Enter operator: ")
